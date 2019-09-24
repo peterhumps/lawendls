@@ -1,0 +1,6 @@
+        @media screen and (max-width: 600px) {
+        .fifty-fifty {
+            width: 100% !important;
+        }
+	.fifty-fifty + .fifty-fifty {margin-top: 40px; }
+        }
